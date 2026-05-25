@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(to right,#f8f9fa,#e3f2fd);
+    font-family: Arial, sans-serif;
+}
+
+.navbar{
+    padding:15px;
+}
+
+.card{
+    border-radius:20px;
+}
+
+textarea{
+    border-radius:12px !important;
+}
+
+input{
+    border-radius:12px !important;
+}
+
+.btn{
+    border-radius:10px;
+    font-weight:bold;
+}
+
+.comment-box{
+    background:white;
+    transition:0.3s;
+}
+
+.comment-box:hover{
+    transform:scale(1.02);
+}
